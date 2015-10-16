@@ -1,6 +1,6 @@
 /*设置背景图片*/
 body{
-	background-image: url("http://my.ss.sysu.edu.cn/wiki/download/attachments/7045968/background.png?version=1&modificationDate=1268896312000");
+	background-image: url("img/background.png");
 	margin:0 auto;
 	padding: 0 auto;
 	font-family: Arial , sans-serif;
@@ -28,7 +28,7 @@ dd{
 
 /*设置banner部分样式*/
 #banner{
-	background-image: url("http://my.ss.sysu.edu.cn/wiki/download/attachments/7045968/bannerbackground.png?version=1&modificationDate=1268896312000");
+	background-image: url("img/bannerbackground.png");
 	text-align: center;
 	margin: 0 auto;
 	height: 50px;
@@ -60,7 +60,7 @@ dd{
 }
 /*标题rotten*/
 #rotten{
-	background-image: url("http://my.ss.sysu.edu.cn/wiki/download/attachments/7045968/rottenbackground.png?version=1&modificationDate=1268896385000");
+	background-image: url("img/rottenbackground.png");
 	background-repeat: repeat-x;
 	height: 83px;
 	font-size: 8pt;
