@@ -2,7 +2,7 @@
 body{
 	background-image: url("img/background.png");
 	margin:0 auto;
-	padding: 0 auto;
+	padding: 0;
 	font-family: Arial , sans-serif;
 }
 
@@ -123,7 +123,7 @@ dd{
 	width:100%;
 	background-color: #A2B964;
 	font-size: 8pt;
-	padding:5px auto;
+	padding:5px;
 }
 
 /*W3C链接样式*/
