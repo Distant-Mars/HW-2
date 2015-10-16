@@ -99,6 +99,7 @@ dd{
 	clear: both;
 	font-size: 8pt;
 	margin-bottom: 3em;
+	font-family: Verdana, Tahoma, sans-serif;
 }
 .context{
 	min-height: 25px;
