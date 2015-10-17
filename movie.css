@@ -1,9 +1,9 @@
 /*设置背景图片*/
 body{
 	background-image: url("img/background.png");
-	margin:0 auto;
+	margin:0;
 	padding: 0;
-	font-family: Arial , sans-serif;
+	font-family: Arial, sans-serif;
 }
 
 /*设置标题*/
@@ -24,7 +24,6 @@ dt{
 dd{
 	margin-bottom: 10px;
 }
-
 
 /*设置banner部分样式*/
 #banner{
@@ -61,20 +60,18 @@ dd{
 /*标题rotten*/
 #rotten{
 	background-image: url("img/rottenbackground.png");
-	background-repeat: repeat-x;
-	height: 83px;
 	font-size: 8pt;
 	color: white;
+	font-family: Verdana, Tahoma, sans-serif;
 }
-.rotten-text{
+#rotten img{
+	height: 83px;
+	vertical-align: bottom;
+}
+#rotten span{
 	font-size: 48pt;
 	font-weight: bold;
 	color: red;
-	vertical-align: text-bottom;
-}
-.rotten-context{
-	font-size: 8pt;
-	color: white;
 }
 
 /*左列影评和右列影评设置*/
@@ -118,13 +115,13 @@ dd{
 
 /*分页信息部分*/
 #extract-note{
-	margin:0 auto;
+	margin:0;
 	clear: both;
 	text-align: center;
 	width:100%;
 	background-color: #A2B964;
 	font-size: 8pt;
-	padding:5px;
+	padding:5px 0px;
 }
 
 /*W3C链接样式*/
